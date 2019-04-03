@@ -1,0 +1,10 @@
+C:\C#kredek\KarolStulaLab1\bin\Debug\KarolStulaLab1.exe.config
+C:\C#kredek\KarolStulaLab1\bin\Debug\KarolStulaLab1.exe
+C:\C#kredek\KarolStulaLab1\bin\Debug\KarolStulaLab1.pdb
+C:\C#kredek\KarolStulaLab1\obj\Debug\KarolStulaLab1.csprojAssemblyReference.cache
+C:\C#kredek\KarolStulaLab1\obj\Debug\KarolStulaLab1.FormMain.resources
+C:\C#kredek\KarolStulaLab1\obj\Debug\KarolStulaLab1.Properties.Resources.resources
+C:\C#kredek\KarolStulaLab1\obj\Debug\KarolStulaLab1.csproj.GenerateResource.cache
+C:\C#kredek\KarolStulaLab1\obj\Debug\KarolStulaLab1.csproj.CoreCompileInputs.cache
+C:\C#kredek\KarolStulaLab1\obj\Debug\KarolStulaLab1.exe
+C:\C#kredek\KarolStulaLab1\obj\Debug\KarolStulaLab1.pdb
