@@ -1,0 +1,2 @@
+Gra jest prostym symulatorem. Dostajemy jednego golda co sekunde. Ka¿da katastrofa jest szybciej o sekunde niz poprzednia.
+Mo¿emy kupiæ Upgrade na drewno lub jedzenie, plac¹c 20 gold za jedzenie a 25 za drzewo. jesli po katastrofie bedziemy mieli ujemna ilosc jedzenia lub drzewa, to gra konczy sie pora¿k¹ u¿ytkownika. 
