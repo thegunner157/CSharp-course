@@ -1,5 +1,0 @@
-Archer Game
-Gra polega na celniejszym oddaniu strzeleniu do tarczy od przeciwnika.
-Po w³¹czeniu gry pojawia siê menu. W ComboBox'ie zawodnik ma do wyboru jedna z dwóch postaci. Po wyborze jednej, przeciwnik ma do dyspozycji drug¹ postaæ. 
-Po kliknieciu przycisku  w³¹cza kolejna plansza gdzie mo¿emy kupiæ boosty, lub rozpocz¹c kolejn¹ gre. Na planszy widac tez ile mamy pieniedzy i doœwiadczenia.
-Gdy klikniemy przycisk zacznij grê, otwiera rozgrywka. Polega ona na oddaniu trzech strza³ów na zmianê. Punkty naliczane s¹ odwrotnie: Im blizej celu, tym mniej mamy punktów. Wygrywa ta osoba, która uzbiera najmniej punktów. Po oddaniu odpowiednio trzech strza³ow, klikamy finish i wracamy do sklepu.
