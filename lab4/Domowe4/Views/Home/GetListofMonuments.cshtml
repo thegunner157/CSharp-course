@@ -1,0 +1,12 @@
+﻿@model List<string>
+@{
+    ViewData["Title"] = "GetListofMonuments";
+}
+
+<h2>GetListofMonuments</h2>
+<ul>
+    @foreach(var mon in Model)
+    {
+        <li>@Html.ActionLink(mon, "GetMonumentByModel", "Home", new {name = mon }, null)</li>
+    }
+</ul>

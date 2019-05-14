@@ -1,0 +1,13 @@
+﻿@model MonumentsModel
+@{
+    ViewData["Title"] = "GetMonumentByModel";
+}
+
+<h2>GetMonumentByModel</h2>
+
+<div>
+    <h2>Name: @Model.Name</h2>
+    <h4>Age: @Model.Age</h4>
+    <h4>Popularity: @Model.Recognizability</h4>
+    <img src="@Url.Content(Model.Photo)" alt="@Model.Name" />
+</div>

@@ -1,0 +1,16 @@
+﻿@model  List<AttractionsModel>
+@{
+    ViewData["Title"] = "GetallAttractions";
+}
+
+<h2>GetallAttractions</h2>
+
+@foreach (var attraction in Model)
+{
+    <div>
+        <h2>@attraction.Name</h2>
+        <h4>Open: @attraction.Time</h4>
+        <h4>Cena:@attraction.Price</h4>
+        <img src="@Url.Content(attraction.Photo)" alt="@attraction.Name" />
+    </div>
+}
